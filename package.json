@@ -17,5 +17,6 @@
   },
   "homepage": "https://github.com/hervit0/diamonds#readme",
   "dependencies": {
+    "npm": "^5.8.0"
   }
 }
