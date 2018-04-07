@@ -2,7 +2,7 @@ version: '2'
 options:
   verbose: true
 syncs:
-  dashboard-sync:
+  diamonds-sync:
     src: .
     sync_args:
       - '-prefer newer'
