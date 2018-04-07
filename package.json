@@ -1,0 +1,21 @@
+{
+  "name": "diamonds",
+  "version": "1.0.0",
+  "description": "Shine like a diamond",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hervit0/diamonds.git"
+  },
+  "author": "Paulo & Hervito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hervit0/diamonds/issues"
+  },
+  "homepage": "https://github.com/hervit0/diamonds#readme",
+  "dependencies": {
+  }
+}
