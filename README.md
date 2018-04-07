@@ -21,3 +21,9 @@ bash-4.3# npm -v
 bash-4.3# yarn -v
 1.5.1
 ```
+
+```
+ng g module --routing Game
+ng g component game/card
+ng g component navigation
+```

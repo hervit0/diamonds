@@ -1,0 +1,132 @@
+{
+  "data": {
+    "type": "Game",
+    "id": "3b07145b-f08b-4bf0-9e3e-364602392edf",
+    "attributes": {
+      "id": "3b07145b-f08b-4bf0-9e3e-364602392edf",
+      "cards": [
+        {
+          "id": "848fdaee-903a-46e3-9661-248f8e80e781",
+          "name": "Jersey Budd"
+        },
+        {
+          "id": "c9519209-4877-46de-a92c-be310481fa52",
+          "name": "Aurélien Bellanger"
+        },
+        {
+          "id": "ca0320cd-41a7-4d3a-bef2-925f91c364c0",
+          "name": "Amanda Abbington"
+        },
+        {
+          "id": "9742323d-69f5-4d3d-bf06-41356702970c",
+          "name": "Marc Bolan"
+        },
+        {
+          "id": "dc5357b0-e0a4-47fa-8462-0bdea972ea8c",
+          "name": "Jean Becker"
+        },
+        {
+          "id": "ff219d8d-11d7-4111-a4cb-24a637f43946",
+          "name": "Jane Asher"
+        },
+        {
+          "id": "e234f716-3b66-4456-a6c2-a88830ce74ed",
+          "name": "Clara Bellar"
+        },
+        {
+          "id": "8a971f4f-abaf-43e0-9aa7-1a72f15fd76c",
+          "name": "Riz Ahmed"
+        },
+        {
+          "id": "e082a431-2f0e-489b-86a9-811d454babcc",
+          "name": "Chloë Annett"
+        },
+        {
+          "id": "a9a5b695-f03d-4fe4-bd3a-95ab553f6167",
+          "name": "Nathalie Baye"
+        },
+        {
+          "id": "be4c99d4-0670-4dc9-9608-0448dcb140e9",
+          "name": "Aurore Auteuil"
+        },
+        {
+          "id": "78a0de02-7d94-4167-a669-0683d49ab423",
+          "name": "Alix Bénézech"
+        },
+        {
+          "id": "92e9d570-f80b-4a6b-95f1-dfec34ea0800",
+          "name": "Mona Achache"
+        },
+        {
+          "id": "d0c1a56b-8557-4ce4-9d2d-6e9611cf0cab",
+          "name": "Daniel Auteuil"
+        },
+        {
+          "id": "685a77b0-1834-49f0-8f65-ef16ac3cf777",
+          "name": "Linda Armstrong"
+        },
+        {
+          "id": "6854349a-959c-44b5-93ab-38a19eff8b10",
+          "name": "Nonso Anozie"
+        },
+        {
+          "id": "7addb748-483d-4a79-9e9e-002142881b44",
+          "name": "Jayne Atkinson"
+        },
+        {
+          "id": "549a520c-1a0d-41e6-8619-27d78335b8e4",
+          "name": "Jessica Barden"
+        },
+        {
+          "id": "1e63f92c-0dca-43fb-a2f2-d81a4d3a1866",
+          "name": "Marie Allan"
+        },
+        {
+          "id": "c2b49680-7138-4b5c-891d-504b71a93ac2",
+          "name": "Yasmin Bannerman"
+        },
+        {
+          "id": "b0e382ef-dc99-46b1-acf3-bca64f7a866e",
+          "name": "Muratt Atik"
+        },
+        {
+          "id": "06610493-34c3-4be6-8914-7ff13bb6a143",
+          "name": "Yvan Attal"
+        },
+        {
+          "id": "6da92af8-4c5f-490e-8cda-6f6e9b5cc1dc",
+          "name": "Gabrielle Anwar"
+        },
+        {
+          "id": "bb023c20-527b-4174-a54a-f27a73eb94d2",
+          "name": "default_card"
+        },
+        {
+          "id": "409e6275-1f22-4e77-8900-94e112167df1",
+          "name": "Greg Austin"
+        },
+        {
+          "id": "a10f70d2-13fb-4c1b-8def-14c004d76e01",
+          "name": "Jenny Agutter"
+        },
+        {
+          "id": "67b7099c-e3e9-45b2-93b2-7d1173aaafbc",
+          "name": "Leïla Bekhti"
+        },
+        {
+          "id": "6b7ac45a-ab1a-478c-9708-1248103a4c04",
+          "name": "Stéphane Audran"
+        },
+        {
+          "id": "b28f3187-dada-4749-bc7e-2d691232b814",
+          "name": "Jackie Berroyer"
+        },
+        {
+          "id": "56a8324f-a220-4c4f-9016-b5832fce206c",
+          "name": "Nora Arnezeder"
+        }
+      ]
+    }
+  },
+  "errors": null
+}
