@@ -15,5 +15,5 @@ services:
     #   - '3020:3020'
     #   - '3021:3021'
 volumes:
-  dashboard-sync:
+  diamonds-sync:
     external: true
