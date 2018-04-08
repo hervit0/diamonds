@@ -8,12 +8,10 @@ services:
     command: 'sh -c "while sleep 1; do :; done"'
     volumes:
       - 'diamonds-sync:/usr/src/app:rw'
-    # environment:
-    #   PORT: 4200
-    #   NODE_PORT: 3021
+    environment:
+      PORT: 4200
     ports:
       - '4200:4200'
-    #   - '3021:3021'
 volumes:
   diamonds-sync:
     external: true
