@@ -6,7 +6,7 @@ Because you shine like a diamond.
 
 ## Requirements
 
-### Developing with containers
+### Developing with containers :tipping_hand_woman:
 
 - [Docker](https://www.docker.com/)
 
@@ -17,15 +17,13 @@ Docker version 17.12.0-ce, build c97c6d6
 
 - [dex](https://github.com/Driftrock/dex) and its dependencies
 
-### Traditional
+### Traditional approach :see_no_evil:
 
 ```
 bash-4.3# node -v
 v9.11.1
 bash-4.3# npm -v
 5.6.0
-bash-4.3# yarn -v
-1.5.1
 ```
 
 ## Run locally
@@ -41,7 +39,7 @@ bash-4.3# npm start
 
 **npm**
 ```
-npm -g
+npm list -g --depth=0
 ```
 
 **Angular**
